@@ -15,7 +15,7 @@ BookSmart is a Java-based application developed with the Gradle build system. Th
 
 ## Project Structure
 ```
-BookSmart OriginalVersion/
+BookSmart/
 ├── app/                # Source code and main application logic
 ├── gradle/             # Gradle wrapper files
 ├── .gradle/            # Build cache and temporary files (auto-generated)
