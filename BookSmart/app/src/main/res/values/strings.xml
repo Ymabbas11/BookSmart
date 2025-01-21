@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BookSmart</string>
+    <string name="default_web_client_id">15557145534-42i0aaf3khf6aep2ei5m5pd52poorl1t.apps.googleusercontent.com</string>
+    <string name="profile_title">Profile</string>
+    <string name="book_space_title">Book a Space</string>
+    <string name="logout_title">Log Out</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+
+</resources>
