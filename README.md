@@ -1,15 +1,21 @@
-# BookSmart
+# BookSmart  
 
-## Overview
-BookSmart is a Java-based application developed with the Gradle build system. This project is designed to manage and organize books efficiently, offering users an intuitive interface and powerful features to handle their book collections. This repository includes all necessary files for building, running, and contributing to the project.
+## Overview  
+BookSmart is a mobile application designed to simplify the booking of community spaces. It provides an intuitive interface for users to view available spaces, make bookings, manage their reservations, and update their profile information. Built with Android Studio and powered by Firebase, BookSmart ensures a seamless user experience with real-time features and data persistence.  
 
 ---
 
-## Features
-- **User-Friendly Interface**: Simplified design for easy navigation.
-- **Book Management**: Add, update, delete, and view book details.
-- **Data Persistence**: Saves data locally for offline access.
-- **Modular Design**: Clean and maintainable architecture using modern software development practices.
+## Features  
+- **Intuitive Interface**: Easy-to-navigate UI for effortless interaction.  
+- **Booking Management**:  
+  - View available spaces (e.g., conference rooms, study rooms).  
+  - Book spaces with conflict alerts and suggested alternatives.  
+  - Manage existing bookings (edit/cancel).  
+- **Recurring Booking Templates**: Save frequently used templates for quick reuse.  
+- **Enhanced Notifications**: Receive timely push notifications for bookings.  
+- **Room Information Buttons**: Access room details from the homepage.  
+- **Data Persistence**: Firebase ensures secure storage of user and booking data.  
+- **UI Refinements**: Improved layout and navigation for reduced cognitive load.  
 
 ---
 
